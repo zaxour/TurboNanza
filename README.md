@@ -1,5 +1,7 @@
 # TurboNanza
 An internal RGB, S-Video, Composite video and Audio modification for the Turbografx 16
+![](/images/AsssembledPCB.jpg?raw=true "")
+
 
 For RGB and Audio portions, simply fit the PCB over the expansion pins and solder down, then connect the output pins for RGB, Sync and Audio Left/Right to the corresponding pins of your chosen output connector.
 
