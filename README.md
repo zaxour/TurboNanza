@@ -3,7 +3,7 @@ An internal RGB, S-Video, Composite video and Audio modification for the Turbogr
 
 For RGB and Audio portions, simply fit the PCB over the expansion pins and solder down, then connect the output pins for RGB, Sync and Audio Left/Right to the corresponding pins of your chosen output connector.
 
-To add S-video, First pull the left leg of R130 as shown in the picture below, and connect to ground.
+To add S-video, First pull the left leg of R130 out of circuit as shown in the picture below, and connect the resistor to ground. Leave the Plated Through Hole open.
 ![Step 1](/images/Assembly%20Step%201.jpg?raw=true "Step 1")
 
 
