@@ -1,7 +1,7 @@
 # TurboNanza
 An internal RGB, S-Video, Composite video and Audio modification for the Turbografx 16.
 
-Presently, only Eagle design files are available. Once I port the design to KiCad, I will replace them accordingly.
+Design is KiCad format and all files necessary to open the design and have it fabricated are present within the archive.
 
 ![](/images/AsssembledPCB.jpg?raw=true "")
 
