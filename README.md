@@ -40,7 +40,7 @@ Solder the TurboNanza over the expansion port pins as shown.
 
 ### TurboGrafx16
 Solder the TurboNanza over the expansion port pins as shown.
-Image coming soon.
+![](/images/RevC%20-%20TG%20Step%203%20-%20Board.jpg?raw=true "")
 
 ### CoreGrafx 1/2
 Coming Soon...
