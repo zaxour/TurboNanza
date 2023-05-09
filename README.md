@@ -9,7 +9,10 @@ Installation Method (WORK IN PROGRESS!!):
 
 ## Step 1 - Remove the resistors for Luma, R-Y, B-Y, and Burst
 ### PC Engine & CoreGrafx
-Remove resistors R134, R137, R138 and R141
+~~Remove resistors R134, R137, R138 and R141~~
+
+Remove resistors R134, R137, and R138 
+
 ![](/images/RevC%20-%20PCE%20Step%201%20-%20Resistors.png?raw=true "")
 
 ### TurboGrafx 16
@@ -41,6 +44,8 @@ Solder the TurboNanza over the expansion port pins as shown.
 ## Step 4 - Solder S-Video connections
 ### PC Engine & CoreGrafx
 Solder wires from the points shown to the pads on TurboNanza
+(Do not remove R141, as previously directed. The Color Burst trace runs underneath and can easily sever. Leave R141 on and solder directly to the resistor pad)
+
 ![](/images/RevC%20-%20PCE%20Step%204%20-%20SV%20Solder%20Points.png?raw=true "")
 
 ### TurboGrafx 16
