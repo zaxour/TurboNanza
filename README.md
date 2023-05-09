@@ -11,7 +11,7 @@ Installation Method (WORK IN PROGRESS!!):
 ### PC Engine & CoreGrafx
 ~~Remove resistors R134, R137, R138 and R141~~
 
-Remove resistors R134, R137, and R138 
+Remove resistors R134, R137, R138 and R156 
 
 ![](/images/RevC%20-%20PCE%20Step%201%20-%20Resistors.png?raw=true "")
 
