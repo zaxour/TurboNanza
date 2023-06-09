@@ -35,6 +35,11 @@ Remove resistor R127 (20 ohms)
 
 ![Step 2](/images/Assembly%20Step%202.jpg?raw=true "Step 2")
 
+### SuperGrafx
+Remove resistor R147 
+
+![Step 2](/images/RevC_SG_Step_2_CV_Resistor.jpg?raw=true "Step 2")
+
 ## Step 3 - Install TurboNanza
 ### PC Engine & CoreGrafx
 Solder the TurboNanza over the expansion port pins as shown.
@@ -44,17 +49,31 @@ Solder the TurboNanza over the expansion port pins as shown.
 Solder the TurboNanza over the expansion port pins as shown.
 ![](/images/RevC%20-%20TG%20Step%203%20-%20Board.jpg?raw=true "")
 
+### SuperGrafx
+Prepare the flex cable by tinning the pads as shown.
+
+![Step 3A](/images/RevC_SG_Step_3A.jpg?raw=true "Step 3A")
+
+Solder the TurboNanza to the flex cable as shown. It's recommended to verify continuity. Place some kapton/polyimide tape over the exposed solder pads on the bottom of the flex cable to avoid shorting to the shielding.
+![Step 3B](/images/RevC_SG_Step_3B.jpg?raw=true "Step 3B")
+
+Solder the TurboNanza/Flex Cable combo over the expansion port pins as shown (ignore 4 wires at this time).
+![Step 3C](/images/RevC_SG_Step_3C.jpg?raw=true "Step 3C")
 
 ## Step 4 - Solder S-Video connections
 ### PC Engine & CoreGrafx
 Solder wires from the points shown to the pads on TurboNanza
 (Do not remove R141, as previously directed. The Color Burst trace runs underneath and can easily sever. Leave R141 on and solder directly to the resistor pad)
 
-![](/images/RevC%20-%20PCE%20Step%204%20-%20SV%20Solder%20Points.png?raw=true "")
+![Step 4](/images/RevC%20-%20PCE%20Step%204%20-%20SV%20Solder%20Points.png?raw=true "")
 
 ### TurboGrafx 16
 Solder wires from the points shown to the pads on TurboNanza
-![Step 3](/images/Assembly%20Step%203.jpg?raw=true "Step 3")
+![Step 4](/images/Assembly%20Step%203.jpg?raw=true "Step 3")
+
+### SuperGrafx
+Solder wires from the points shown to the pads on TurboNanza
+![Step 4](/images/RevC_SG_Step_4.jpg?raw=true "Step 4")
 
 ## Step 5 - Attach the DIN to the main board
 ### PC Engine
