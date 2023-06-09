@@ -13,7 +13,7 @@ Installation Method (WORK IN PROGRESS!!):
 
 Remove resistors R134, R137, R138 and R156 
 
-![](/images/RevC%20-%20PCE%20Step%201%20-%20Resistors.png?raw=true "")
+![](/images/RevC_PCE_Step_1.jpg?raw=true "")
 
 ### TurboGrafx 16
 Remove resistors R130-R132 and R134
