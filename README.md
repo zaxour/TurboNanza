@@ -92,6 +92,17 @@ Solder the mounting board using the plated through holes for the RF modulator. A
 
 ![](/images/RevC_TG_Step5_DIN.jpg?raw=true "")
 
+### SuperGrafx
+Remove the original DIN and scrape the soldermask approximately as shown.
+![](/images/RevC_SG_Step5A.jpg?raw=true "")
+
+Solder the mounting board as shown, aligning the center hole with the two ground through holes.
+![](/images/RevC_SG_Step5B.jpg?raw=true "")
+
+Mount the DIN and DIN board to the mount board.
+![](/images/RevC_SG_Step5C.jpg?raw=true "")
+
+
 ## Step 6 - RF Shielding and Case trimming
 ### PC Engine
 On the bottom shell of the case, trim the 2 ribs where the expansion port opening sits. Do not re-install the original shielding.
@@ -102,3 +113,5 @@ Trim the RF shield such that the metal lip is not contacting the TurboNanza.
 ![](/images/RevC_CG_Step6_RFShield.png?raw=true "")
 
 Like the PC Engine, trim the 2 ribs on the bottom shell where the expansion port opening is.
+
+
