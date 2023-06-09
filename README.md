@@ -19,6 +19,10 @@ Remove resistors R134, R137, R138 and R156
 Remove resistors R130-R132 and R134
 ![Step 1](/images/Assembly%20Step%201A.jpg?raw=true "Step 1")
 
+### SuperGrafx
+Remove resistors R164-167
+![Step 1](/images/RevC_SG_Step_1_Resistors.jpg?raw=true "Step 1")
+
 
 ## Step 2 - Disconnect CVBS pin from original circuit
 ### PC Engine & CoreGrafx
