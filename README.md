@@ -82,9 +82,25 @@ Scrape solder mask off of the area where the RF modulator resided. Align the DIN
 ![](/images/Rev%20C%20-%20PCE%20Step%205%20-%20DIN.png?raw=true "")
 
 ### CoreGrafx
-Using the supplied mounting board, mount using the ground plated through holes for the original DIN. Align the DIN on the mounting board such that it aligns with the console shell opening and solder in place.
+First, remove C162 (AC coupling capacitor for composite video - no longer necessary)
+![Step 5](/images/RevC_CG_Step5A.jpg?raw=true "Step 5")
 
-Pictures Forthcoming
+Scrape the solder mask off the copper on the left and right edges of the original DIN footprint as shown.
+![Step 5](/images/RevC_CG_Step5B.jpg?raw=true "Step 5")
+
+Solder the supplied mounting board to the mainboard.
+![Step 5](/images/RevC_CG_Step5C.jpg?raw=true "Step 5")
+
+Due to the cartridge PCB coming into contact with the DIN-FFC board, follow this procedure. First, place the DIN-FFC board on the DIN without soldering.
+![Step 5](/images/RevC_CG_Step5D.jpg?raw=true "Step 5")
+
+Put everything together as if reassembling - this will allow the cartridge PCB to tilt the DIN-FFC PCB.
+![Step 5](/images/RevC_CG_Step5E.jpg?raw=true "Step 5")
+
+![Step 5](/images/RevC_CG_Step5F.jpg?raw=true "Step 5")
+
+Finally, solder the DIN-FFC in the resulting position.
+![Step 5](/images/RevC_CG_Step5G.jpg?raw=true "Step 5")
 
 
 ### TurboGrafx16
