@@ -61,6 +61,9 @@ Solder the TurboNanza/Flex Cable combo over the expansion port pins as shown (ig
 ![Step 3C](/images/RevC_SG_Step_3C.jpg?raw=true "Step 3C")
 
 ## Step 4 - Solder S-Video connections
+
+**When soldering the Y/B-Y/R-Y/Burst wires, try to use as close to the exact same length of wire as possible to maintain proper phase shift!**
+
 ### PC Engine & CoreGrafx
 Solder wires from the points shown to the pads on TurboNanza
 (Do not remove R141, as previously directed. The Color Burst trace runs underneath and can easily sever. Leave R141 on and solder directly to the resistor pad)
