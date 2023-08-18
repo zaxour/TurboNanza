@@ -124,7 +124,11 @@ Mount the DIN and DIN board to the mount board.
 
 ## Step 6 - RF Shielding and Case trimming
 ### PC Engine
-On the bottom shell of the case, trim the 2 ribs where the expansion port opening sits. Do not re-install the original shielding.
+On the bottom shell of the case, trim the 2 ribs where the expansion port opening sits. Do not re-install the original shielding. If your PC Engine has shielding that has two tabs that solder close to the EXP port pins, you will need to run a wire to where the shielding originally terminated.
+![](/images/PCE_CG_Step6X.jpg?raw=true "")
+
+![](/images/PCE_CG_Step6X2.jpg?raw=true "")
+
 
 ### CoreGrafx
 Trim the RF shield such that the metal lip is not contacting the TurboNanza.
