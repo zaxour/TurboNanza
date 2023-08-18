@@ -80,7 +80,19 @@ Solder wires from the points shown to the pads on TurboNanza
 
 ## Step 5 - Attach the DIN to the main board
 ### PC Engine
-Scrape solder mask off of the area where the RF modulator resided. Align the DIN such that it JUST covers the front mounting hole of the RF port.
+Kits sold after 8/15/2023 now include a mounting board for the PCEngine. It is recommended to secure with two size M2 or 2-56 bolts/washers to allow for easy positioning.
+
+Position the mount and loosely secure with screws/washers. The board may also be soldered - kapton/polyimide tape is recommended to position the board.
+![](/images/PCE_Step5A.jpg?raw=true "")
+
+Place the DIN in the slot, and solder around the sides.
+![](/images/PCE_Step5B.jpg?raw=true "")
+
+Solder the DIN FFC adapter to the DIN.
+![](/images/PCE_Step5C.jpg?raw=true "")
+
+
+Kits without mounting board: scrape solder mask off of the area where the RF modulator resided. Align the DIN such that it JUST covers the front mounting hole of the RF port.
 
 ![](/images/Rev%20C%20-%20PCE%20Step%205%20-%20DIN.png?raw=true "")
 
