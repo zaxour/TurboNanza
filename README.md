@@ -7,6 +7,10 @@ Design is KiCad format and all files necessary to open the design and have it fa
 
 Installation Method (WORK IN PROGRESS!!):
 
+PINOUT (For reference/Non-Expansion-Port Installs):
+![](/images/Pinout.jpg?raw=true "")
+
+
 ## Step 1 - Remove the resistors for Luma, R-Y, B-Y, and Burst
 ### PC Engine & CoreGrafx
 ~~Remove resistors R134, R137, R138 and R141~~
