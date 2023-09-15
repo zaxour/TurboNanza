@@ -36,6 +36,20 @@ Solder the 10 Pin DIN to the DIN Mount board.
 
 Solder the video connections from the HuFlex to the Turbonanza board. Refer to the pinout below. Y / B-Y / R-Y / Burst are marked on the Turbonanza itself.
 
+If not using the HuFlex, the HuC6260 pins are as follows:
+
+Red - P49
+Blue - P51
+Green - P47
+Sync - P44
+
+5V/GND - Most convenient wiring location
+
+Y - P40
+R-Y - P33
+B-Y - P26
+Burst - P20
+
 ![](/images/Pinout.jpg)
 ![](Step6_video.jpg)
 
