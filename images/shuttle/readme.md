@@ -62,6 +62,7 @@ Solder a wire to Pin 1 of the cartridge slot, then connect to the HuD/CDR pin on
 ## Step 8 - Solder Remaining Audio Connections
 
 Solder the Audio Left/Right, CD Left and 5VA connections. See the following image for signal locations.
+*NOTE* Pin 2 on the HuCard slot can also be used for "CD Left"
 
 ![](Step2B_netnames.jpg)
 ![](Step8_audio.jpg)
