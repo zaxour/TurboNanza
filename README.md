@@ -3,7 +3,7 @@
 
 [PC Engine/Turbo Duo Installation Instructions](/images/duo/readme.md)
 
-An internal RGB, S-Video, Composite video and Audio modification for the Turbografx 16, PCEngine and CoreGrafx. As of Revision C, support has been added for audio from the Turbo Everdrive Pro by 
+An internal RGB, S-Video, Composite video and Audio modification for the Turbografx 16, PCEngine and CoreGrafx. As of Revision C, support has been added for audio from the Turbo Everdrive Pro.
 
 Design is KiCad format and all files necessary to open the design and have it fabricated are present within the archive.
 
