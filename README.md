@@ -77,7 +77,7 @@ Solder the TurboNanza/Flex Cable combo over the expansion port pins as shown (ig
 Solder wires from the points shown to the pads on TurboNanza
 (Do not remove R141, as previously directed. The Color Burst trace runs underneath and can easily sever. Leave R141 on and solder directly to the resistor pad)
 
-![Step 4](/images/RevC%20-%20PCE%20Step%204%20-%20SV%20Solder%20Points.png?raw=true "")
+![Step 4](/images/PCE_Step4_SV_Solder_Points.png?raw=true "")
 
 ### TurboGrafx 16
 Solder wires from the points shown to the pads on TurboNanza
