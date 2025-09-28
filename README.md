@@ -97,13 +97,9 @@ Position the mount and loosely secure with screws/washers. The board may also be
 Place the DIN in the slot, and solder around the sides.
 ![](/images/PCE_Step5B.jpg?raw=true "")
 
-Solder the DIN FFC adapter to the DIN.
-![](/images/PCE_Step5C.jpg?raw=true "")
+Solder the DIN FFC adapter to the DIN. Please make sure the "THIS SIDE TOP" text is visible before soldering, as it indicates which side is top.
+![](/images/DecaDIN_Top.png?raw=true "")
 
-
-Kits without mounting board: scrape solder mask off of the area where the RF modulator resided. Align the DIN such that it JUST covers the front mounting hole of the RF port.
-
-![](/images/Rev%20C%20-%20PCE%20Step%205%20-%20DIN.png?raw=true "")
 
 ### CoreGrafx
 First, remove C162 (AC coupling capacitor for composite video - no longer necessary)
@@ -115,16 +111,8 @@ Scrape the solder mask off the copper on the left and right edges of the origina
 Solder the supplied mounting board to the mainboard.
 ![Step 5](/images/RevC_CG_Step5C.jpg?raw=true "Step 5")
 
-Due to the cartridge PCB coming into contact with the DIN-FFC board, follow this procedure. First, place the DIN-FFC board on the DIN without soldering.
-![Step 5](/images/RevC_CG_Step5D.jpg?raw=true "Step 5")
-
-Put everything together as if reassembling - this will allow the cartridge PCB to tilt the DIN-FFC PCB.
-![Step 5](/images/RevC_CG_Step5E.jpg?raw=true "Step 5")
-
-![Step 5](/images/RevC_CG_Step5F.jpg?raw=true "Step 5")
-
-Finally, solder the DIN-FFC in the resulting position.
-![Step 5](/images/RevC_CG_Step5G.jpg?raw=true "Step 5")
+Solder the DIN FFC adapter to the DIN. Please make sure the "THIS SIDE TOP" text is visible before soldering, as it indicates which side is top.
+![](/images/DecaDIN_Top.png?raw=true "")
 
 
 ### TurboGrafx16
