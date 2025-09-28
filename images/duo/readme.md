@@ -48,11 +48,10 @@ See CoreGrafx for DIN and mounting board installation.
 
 Tap the Duo's audio output circuit - the signals can be directly obtained from the original DIN pins as shown below. 
 
-For original revision Turbonanza's, remove C19 and C20. Right audio connects to C20-negative and Left audio connects to C19-negative.
+The blue wire is Left audio, while the red wire is for Right audio.
 
-For newer Turbonanza's, remove C6 and C7 from the DIN-FFC board, and connect Right audio to C6-Negative and Left audio to C7-Negative.
 
-![](Bonanza_Audio_Connected.jpg)
 ![](L_R_AUDIO.jpg)
-![](NewDIN_Caps.jpg)
+![](/images/DecaDIN_Top_Duo.png?raw=true "")
+
 
