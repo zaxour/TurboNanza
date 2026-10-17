@@ -1,4 +1,14 @@
 # TurboNanza
+
+***NOTE: I will provide support for Turbonanza if you purchased from:
+
+My Ko-Fi Store: https://ko-fi.com/s/4d0de1c0ac
+VideoGamePerfection (EU): https://videogameperfection.com/products/turbonanza-pcengine-turbografx/
+
+If you purchased from AliExpress, I cannot provide support as it looks like they changed the design and did not publish the details.
+
+***
+
 [PC Engine Shuttle Installation Instructions](/images/shuttle/readme.md)
 
 [PC Engine/Turbo Duo Installation Instructions](/images/duo/readme.md)
